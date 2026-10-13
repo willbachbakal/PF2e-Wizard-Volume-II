@@ -1,0 +1,48 @@
+{
+  "id": "",
+  "title": "",
+  "version": "#{VERSION}#",
+  "library": "false",
+  "compatibility": {
+    "minimum": "14",
+    "verified": "14",
+    "maximum": "14"
+  },
+  "flags": {
+    "": {
+      "pf2e-homebrew": {
+        "featTraits": {
+          "": ""
+        },
+        "spellTraits": {
+          "": ""
+        }
+      }
+    }
+  },
+  "description": "",
+  "authors": [
+    {
+      "name": "Teridax68",
+      "flags": {}
+    }
+  ],
+  "packs": [
+    {
+      "name": "",
+      "label": "",
+      "path": "packs/",
+      "type": "Item",
+      "system": "pf2e",
+      "flags": {}
+    }
+  ],
+  "esmodules": [
+      "scripts/module.js"
+  ],
+  "url": "#{URL}#",
+  "manifest": "#{MANIFEST}#",
+  "download": "#{DOWNLOAD}#",
+  "license": "LICENSE",
+  "readme": ""
+}

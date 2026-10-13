@@ -1,6 +1,6 @@
 {
-  "id": "",
-  "title": "",
+  "id": "wizard-volume-ii",
+  "title": "Wizard Volume II",
   "version": "#{VERSION}#",
   "library": "false",
   "compatibility": {
@@ -20,7 +20,7 @@
       }
     }
   },
-  "description": "",
+  "description": "An updated alternate take on the Wizard class for Pathfinder Second Edition that opens up their arcane schools, arcane theses, and feats.",
   "authors": [
     {
       "name": "Teridax68",
@@ -29,9 +29,9 @@
   ],
   "packs": [
     {
-      "name": "",
-      "label": "",
-      "path": "packs/",
+      "name": "wizard-volume-ii",
+      "label": "Wizard Volume II",
+      "path": "packs/wizard-volume-ii",
       "type": "Item",
       "system": "pf2e",
       "flags": {}
@@ -44,5 +44,5 @@
   "manifest": "#{MANIFEST}#",
   "download": "#{DOWNLOAD}#",
   "license": "LICENSE",
-  "readme": ""
+  "readme": "https://homebrewery.naturalcrit.com/share/8AAkinxWNfFP"
 }
